@@ -2,3 +2,5 @@ databases
 sqlalchemy
 fastapi
 pydantic
+psycopg2
+uvicorn
